@@ -1,6 +1,8 @@
 ---
 layout: home
 ---
+
+<!--
 # heading 1 in md
 
 <ul>
@@ -11,3 +13,4 @@ layout: home
     </li>
   {% endfor %}
 </ul>
+-->
