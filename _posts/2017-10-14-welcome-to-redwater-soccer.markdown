@@ -3,7 +3,8 @@ layout: post
 title: "Welcome to Redwater Soccer"
 date: 2017-10-14T19:47:59-06:00
 ---
-![RocketsLogo](/images/RocketsLogo.png)
+
+![rlogo]
 
 # Welcome!
 
@@ -12,8 +13,24 @@ Redwater Soccer is under construction ... the organization and website. There ha
 ## Its all about the players!!
 
 We have worked with other community organizations / sports leagues:
-- Tri-county Soccer Assosiation
-- Sherwood Park District Soccer Assosiation
-- Gibbons Soccer
+- [asa]
+- [spdsa]
+- [tri]
+- [gib]
+
+![iasa]
+![ispdsa]
+![itri]
+![igib]
 
 
+[asa]: htt://www.albertasoccer.com Alberta Soccer Association
+[spdsa]: www.spdsa.net Sherwood Park District Soccer Association
+[tri]: www.tricountysoccer.net Tri County Soccer Association
+[gib]: www.gibbonssoccer.com Gibbons Minor Soccer Association
+
+[rlogo]: /images/RocetsLogo.png
+[iasa]: /images/ASALOGO.png
+[ispdsa]: /images/spdsa.png
+[itri]: /images/TRICOUNTY.png
+[igib]: /images/gibbons.png
