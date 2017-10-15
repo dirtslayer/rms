@@ -1,9 +1,9 @@
 
 title: Redwater Minor Soccer
-email: dirtslayer@gmail.com
+email: darrell@redwatersoccer.ca
+
 description: >- # this means to ignore newlines until "baseurl:"
-  Redwater Minor Soccer is an community organization for kids soccer.
-  We run 2 seasons, a summer season and indoor season. Ages 6 - 16.
+  Lets go Rockets!
 baseurl: "" # the subpath of your site, e.g. /blog
 theme: minima
 markdown: kramdown
