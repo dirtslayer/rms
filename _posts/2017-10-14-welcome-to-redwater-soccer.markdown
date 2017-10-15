@@ -13,10 +13,10 @@ Redwater Soccer is under construction ... the organization and website. There ha
 ## Its all about the players!!
 
 We have worked with other community organizations / sports leagues:
-- [asa]
-- [spdsa]
-- [tri]
-- [gib]
+- [asa] Alberta Soccer Association
+- [spdsa] Sherwood Park District Soccer Association
+- [tri] Tri County Soccer Association
+- [gib]  Gibbons Minor Soccer Association
 
 ![iasa]
 ![ispdsa]
