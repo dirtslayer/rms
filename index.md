@@ -2,8 +2,7 @@
 layout: home
 ---
 
-<!--
-# heading 1 in md
+# Redwater Soccer
 
 <ul>
   {% for post in site.posts %}
@@ -13,4 +12,3 @@ layout: home
     </li>
   {% endfor %}
 </ul>
--->
