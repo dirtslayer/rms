@@ -11,8 +11,8 @@ permalink: /win/
 ## Board
 
 President | Kirsti Duckworth | kirsti_duckworth@yahoo.ca
-Vice President    | Annie Sheldrake | annieshel@gmail.com
-Treasurer | Annie Sheldrake | annieshel@gmail.com
+Vice President    | Annie Sheldrake | asheldrake12@gmail.com
+Treasurer | Annie Sheldrake | asheldrake12@gmail.com
 Secretary | Darrell Dupas | darrell@designr8.com
 
 ## Mail
