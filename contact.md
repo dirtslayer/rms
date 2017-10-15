@@ -6,7 +6,7 @@ permalink: /win/
 
 ## Email
 
-[redwaterrocketssoccer@gmail.com][mailto://redwaterrocketssoccer@gmail.com]
+[redwaterrocketssoccer@gmail.com](mailto://redwaterrocketssoccer@gmail.com)
 
 ## Board
 
