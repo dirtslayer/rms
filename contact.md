@@ -4,6 +4,10 @@ title: Contact
 permalink: /win/
 ---
 
+## Email
+
+[redwaterrocketssoccer@gmail.com][mailto://redwaterrocketssoccer@gmail.com]
+
 ## Board
 
 President | Kirsti Duckworth | kirsti_duckworth@yahoo.ca
