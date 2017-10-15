@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to Redwater Soccer"
 date: 2017-10-14T19:47:59-06:00
 ---
-![RocketsLogo]
+![RocketsLogo](/_images/RocketsLogo.png)
 
 # Welcome!
 
@@ -17,6 +17,3 @@ We have worked with other community organizations / sports leagues:
 - Gibbons Soccer
 
 
-And here is a referenced ![smile]
-
-[RocketsLogo]: /_images/RocketsLogo.png
