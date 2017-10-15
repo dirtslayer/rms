@@ -9,7 +9,7 @@ The Annual General Meeting was held. Thank you all for coming please welcome you
 ## Nominations
 
 President | Kirsti Duckworth
-Vice President    | Annie Sheldrake
+Vice President <pre>   </pre>   | Annie Sheldrake
 Treasurer | Annie Sheldrake
 Secretary | Darrell Dupas
 
