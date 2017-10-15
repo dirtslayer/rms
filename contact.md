@@ -4,8 +4,6 @@ title: Contact
 permalink: /win/
 ---
 
-# Contact Us
-
 ## Board
 
 President | Kirsti Duckworth | kduck@gmail.com
@@ -19,8 +17,6 @@ Box 911
 Redwater, AB
 T0A 2W0
 
-## Facebook
-
-[Facebook][fb]
+## [Facebook][fb]
 
 [fb]: https://www.facebook.com/RedwaterMinorSoccer/
