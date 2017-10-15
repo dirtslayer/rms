@@ -6,3 +6,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   We run 2 seasons, a summer season and indoor season. Ages 6 - 16.
 baseurl: "" # the subpath of your site, e.g. /blog
 theme: jekyll-theme-tactile
+markdown: kramdown
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
