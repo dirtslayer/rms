@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Redwater Minor Soccer is an community organization for kids soccer.
   We run 2 seasons, a summer season and indoor season. Ages 6 - 16.
 baseurl: "" # the subpath of your site, e.g. /blog
-theme: jekyll-theme-tactile
+theme: minima
 markdown: kramdown
 gems:
   - jekyll-feed
