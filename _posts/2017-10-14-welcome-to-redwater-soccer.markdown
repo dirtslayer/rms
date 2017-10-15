@@ -29,7 +29,7 @@ We have worked with other community organizations / sports leagues:
 [tri]: www.tricountysoccer.net Tri County Soccer Association
 [gib]: www.gibbonssoccer.com Gibbons Minor Soccer Association
 
-[rlogo]: /images/RocetsLogo.png
+[rlogo]: /images/RocketsLogo.png
 [iasa]: /images/asalogo_small.png
 [ispdsa]: /images/spdsa_small.png
 [itri]: /images/tricounty_small.png
