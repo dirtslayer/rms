@@ -33,4 +33,4 @@ We have worked with other community organizations / sports leagues:
 [iasa]: /images/asalogo_small.png
 [ispdsa]: /images/spdsa_small.png
 [itri]: /images/tricounty_small.png
-[igib]: /images/gibbons_small.jpg
+[igib]: /images/gibbons_small.png
