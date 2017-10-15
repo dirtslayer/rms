@@ -1,4 +1,7 @@
 ---
 layout: home
 ---
-![RocketsLogo](/images/RocketsLogo.png){: width: "200px" height: "200px" }
+<!--
+![RocketsLogo](/images/RocketsLogo.png)
+-->
+ <img align="right" src="/images/rocketslogo_sm.jpg" >
