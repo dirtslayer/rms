@@ -1,6 +1,6 @@
---
+---
 layout: home
---
+---
 # heading 1 in md
 
 <ul>
