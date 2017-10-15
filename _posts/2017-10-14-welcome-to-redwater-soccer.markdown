@@ -4,7 +4,7 @@ title: "Welcome to Redwater Soccer"
 date: 2017-10-14T19:47:59-06:00
 ---
 
-![rlogo]
+![Go Rockets][rlogo]
 
 # Welcome!
 
@@ -30,7 +30,7 @@ We have worked with other community organizations / sports leagues:
 [gib]: www.gibbonssoccer.com Gibbons Minor Soccer Association
 
 [rlogo]: /images/RocetsLogo.png
-[iasa]: /images/ASALOGO.png
-[ispdsa]: /images/spdsa.png
-[itri]: /images/TRICOUNTY.png
-[igib]: /images/gibbons.png
+[iasa]: /images/asalogo_small.png
+[ispdsa]: /images/spdsa_small.png
+[itri]: /images/tricounty_small.png
+[igib]: /images/gibbons_small.jpg
