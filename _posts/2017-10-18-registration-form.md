@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Registration Form"
+date: 2017-10-18T19:47:59-06:00
+---
+<img align="right" src="/images/rocketslogo_small.jpg" >
+<div class="printintable">
+
 ## Player Information
 
 | Surname | |
@@ -44,3 +52,5 @@ Emergency Contact |
 
 | Signed On Date | |
 | Signed By | |
+
+</div>
