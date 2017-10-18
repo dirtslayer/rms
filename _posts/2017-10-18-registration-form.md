@@ -1,5 +1,5 @@
 ## Player Information
-
+------------------------------------------
 Surname |
 Given Name |
 Birtdate |
@@ -8,7 +8,7 @@ Phone # |
 Email |
 AHC # |
 Medical Concerns |
-
+------------------------------------------
 ## Parent / Guardian Information
 
 Surname |
@@ -22,7 +22,7 @@ Emergency Contact |
   - [ ] Check
   - [ ] Email Transfer
   - [ ] Cash
-  - [ ] Recipt 
+  - [ ] Receipt 
 
 ## Volunteer
 
@@ -41,6 +41,8 @@ Emergency Contact |
 - [ ] $60 cancelation fee
 
 ## Approval
-Signed On Date | _______________________________________
-Signed By  | _______________________________________
+--------------------------
+Signed On Date |
+Signed By |
+--------------------------
 
