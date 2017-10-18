@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: none
 title: "Registration Form"
 date: 2017-10-18T19:47:59-06:00
 ---
