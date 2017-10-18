@@ -7,14 +7,25 @@ date: 2017-10-18T19:47:59-06:00
 
 ## Player Information
 
-| Surname | |
-| Given Name | |
-| Birtdate | |
-| Address | |
-| Phone # | |
-| email | |
-| AHC # | |
-|Medical Concerns | |
+<table width="100%" >    
+<tr><td style="border-bottom:1pt solid black" >
+Surname 
+</td></tr><tr><td style="border-bottom:1pt solid black">
+Given Name 
+</td></tr><tr><td style="border-bottom:1pt solid black">
+Birtdate
+</td></tr><tr><td style="border-bottom:1pt solid black">
+Address
+</td></tr><tr><td style="border-bottom:1pt solid black">
+Phone
+</td></tr><tr><td style="border-bottom:1pt solid black">
+email 
+</td></tr><tr><td style="border-bottom:1pt solid black">
+AHC # 
+</td></tr><tr><td style="border-bottom:1pt solid black">
+Medical Concerns 
+</td></tr>
+</table>
 
 ## Parent / Guardian Information
 
