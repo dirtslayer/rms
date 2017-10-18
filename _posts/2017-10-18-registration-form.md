@@ -12,20 +12,20 @@ date: 2017-10-18T19:47:59-06:00
 <table width="70%" style="padding-bottom:2em" >    
 <tr><td style="border-bottom:1pt solid black; height:3em" >
 Surname 
-  </td><td>team</td></tr><tr><td style="border-bottom:1pt solid black; height:2em">
+  </td><td style="border-bottom:1pt solid black; height:2em">
+  team
+  </td></tr><tr><td style="border-bottom:1pt solid black; height:2em">
 Given Name 
-</td></tr><tr><td style="border-bottom:1pt solid black; height:2em">
+</td><td style="border-bottom:1pt solid black; height:2em">
 Birtdate
 </td></tr><tr><td style="border-bottom:1pt solid black; height:2em">
 Address
 </td></tr><tr><td style="border-bottom:1pt solid black; height:2em">
 Phone
-</td></tr><tr><td style="border-bottom:1pt solid black; height:2em">
+</td><td style="border-bottom:1pt solid black; height:2em">
 email 
 </td></tr><tr><td style="border-bottom:1pt solid black; height:2em">
-AHC # 
-</td></tr><tr><td style="border-bottom:1pt solid black; height:2em">
-Medical Concerns 
+AHC # , Medical Concerns 
 </td></tr>
 </table>
 
