@@ -15,15 +15,15 @@ Surname
   </td><td style="border-bottom:1pt solid black; height:2em">
   team
   </td></tr><tr><td style="border-bottom:1pt solid black; height:2em">
-Given Name 
+First 
 </td><td style="border-bottom:1pt solid black; height:2em">
-Birtdate
-</td></tr><tr><td style="border-bottom:1pt solid black; height:2em">
-Address
+birth date
 </td></tr><tr><td style="border-bottom:1pt solid black; height:2em">
 Phone
 </td><td style="border-bottom:1pt solid black; height:2em">
 email 
+</td></tr><tr><td colspan="2" style="border-bottom:1pt solid black; height:2em">
+Address
 </td></tr><tr><td style="border-bottom:1pt solid black; height:2em">
 AHC # , Medical Concerns 
 </td></tr>
