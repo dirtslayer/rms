@@ -9,7 +9,7 @@ date: 2017-10-18T19:47:59-06:00
 
 ### Player Information
 
-<table width="80%" >    
+<table width="70%" >    
 <tr><td style="border-bottom:1pt solid black; height:3em" >
 Surname 
 </td></tr><tr><td style="border-bottom:1pt solid black; height:2em">
@@ -29,9 +29,9 @@ Medical Concerns
 </td></tr>
 </table>
 
-## Parent / Guardian Information
+### Parent / Guardian Information
 
-<table width="80%" >    
+<table width="70%" >    
 <tr><td style="border-bottom:1pt solid black; height:2em" >
 Surname 
 </td></tr><tr><td style="border-bottom:1pt solid black; height:2em">
@@ -43,7 +43,7 @@ Emergency Contact
 </td></tr>
 </table>
 
-## Fees
+### Fees
 
 - [ ] Paid
   - [ ] Check
@@ -51,7 +51,7 @@ Emergency Contact
   - [ ] Cash
   - [ ] Receipt 
 
-## Volunteer
+### Volunteer
 
 - [ ] Coach
 - [ ] Assistant
@@ -59,7 +59,7 @@ Emergency Contact
 - [ ] Car Pool
 - [ ] Fundraiser
 
-## Notes
+### Notes
 
 - [ ] $50 late fee, fees due by first game
 - [ ] $50 fundraising deposit
@@ -67,7 +67,7 @@ Emergency Contact
 - [ ] no refunds after start of season
 - [ ] $60 cancelation fee
 
-## Approval
+### Approval
 
 <table width="50%" >    
 <tr><td style="border-bottom:1pt solid black; height:3em" >
