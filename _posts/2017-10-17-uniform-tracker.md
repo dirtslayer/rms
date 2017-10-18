@@ -4,7 +4,7 @@ Jersey | Player | Short Size | Socks Size
 23 | Antal Shaw | ? | ?
 80 | Janaye Shaw | ? | ?
 ? | Isabella Oliver | ? | ?
-? | Shayden Hawkhurst | ? | ?
+50 | Shayden Hawkhurst | YL | YL
 ? | Lauryn | ? | ?
 72 | Avril | ? | ?
 10 | Brayden Duckworth | ? | ?
