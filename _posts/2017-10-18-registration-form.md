@@ -10,21 +10,21 @@ date: 2017-10-18T19:47:59-06:00
 ## Player Information
 
 <table width="100%" >    
-<tr><td style="border-bottom:1pt solid black" >
+<tr><td style="border-bottom:1pt solid black; height:3em" >
 Surname 
-</td></tr><tr><td style="border-bottom:1pt solid black">
+</td></tr><tr><td style="border-bottom:1pt solid black; height:3em">
 Given Name 
-</td></tr><tr><td style="border-bottom:1pt solid black">
+</td></tr><tr><td style="border-bottom:1pt solid black; height:3em">
 Birtdate
-</td></tr><tr><td style="border-bottom:1pt solid black">
+</td></tr><tr><td style="border-bottom:1pt solid black; height:3em">
 Address
-</td></tr><tr><td style="border-bottom:1pt solid black">
+</td></tr><tr><td style="border-bottom:1pt solid black; height:3em">
 Phone
-</td></tr><tr><td style="border-bottom:1pt solid black">
+</td></tr><tr><td style="border-bottom:1pt solid black; height:3em">
 email 
-</td></tr><tr><td style="border-bottom:1pt solid black">
+</td></tr><tr><td style="border-bottom:1pt solid black; height:3em">
 AHC # 
-</td></tr><tr><td style="border-bottom:1pt solid black">
+</td></tr><tr><td style="border-bottom:1pt solid black; height:3em">
 Medical Concerns 
 </td></tr>
 </table>
