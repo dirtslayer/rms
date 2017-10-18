@@ -18,27 +18,27 @@ Emergency Contact |
 
 ## Fees
 
-[ ] Paid
-  [ ] Check
-  [ ] Email Transfer
-  [ ] Cash
-  [ ] Recipt 
+- [ ] Paid
+  - [ ] Check
+  - [ ] Email Transfer
+  - [ ] Cash
+  - [ ] Recipt 
 
 ## Volunteer
 
-[ ] Coach
-[ ] Assistant
-[ ] Trainer
-[ ] Car Pool
-[ ] Fundraiser
+- [ ] Coach
+- [ ] Assistant
+- [ ] Trainer
+- [ ] Car Pool
+- [ ] Fundraiser
 
 ## Notes
 
-[ ] $50 late fee, fees due by first game
-[ ] $50 fundraising deposit
-[ ] equipment checklist ...
-[ ] no refunds after start of season
-[ ] $60 cancelation fee
+- [ ] $50 late fee, fees due by first game
+- [ ] $50 fundraising deposit
+- [ ] equipment checklist ...
+- [ ] no refunds after start of season
+- [ ] $60 cancelation fee
 
 ## Approval
 Signed On Date | _______________________________________
