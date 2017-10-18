@@ -1,5 +1,3 @@
-# Registration Form
-
 ## Player Information
 
 Surname |
