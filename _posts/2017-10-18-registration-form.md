@@ -43,26 +43,44 @@ Emergency Contact
 </td></tr>
 </table>
 <table><tr><td>
-### Fees paid
-- Paid
-- Check
-- Email Transfer
-- Cash
-- Receipt 
+  <h3> Fees paid </h3>
+<ul><li>
+  Paid
+<li>
+ Check
+<li>
+ Email Transfer
+<li>
+ Cash
+<li>
+ Receipt 
+  </ul>
 </td><td>
-### Volunteer
-- Coach
-- Assistant
-- Trainer
-- Car Pool
-- Fundraiser
+  <h3> Volunteer </h3>
+<ul><li>
+  Coach
+<li>
+  Assistant
+<li>
+  Trainer
+<li>
+  Car Pool
+<li>
+  Fundraiser
+  </ul>
 </td><td>
-### Notes
-- $50 late fee, fees due by first game
-- $50 fundraising deposit
-- equipment checklist ...
-- no refunds after start of season
-- $60 cancelation fee
+  <h3> Notes </h3>
+<ul> <li>
+  $50 late fee, fees due by first game
+<li>
+ $50 fundraising deposit
+<li>
+  equipment checklist ...
+<li>
+  no refunds after start of season
+<li>
+  $60 cancelation fee
+  </ul>
 </td></tr>
 </table>
 ### Approval
