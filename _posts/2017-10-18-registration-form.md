@@ -1,6 +1,5 @@
 ## Player Information
 
-| --- | --- |
 | Surname | |
 | Given Name | |
 | Birtdate | |
@@ -9,7 +8,6 @@
 | email | |
 | AHC # | |
 |Medical Concerns | |
-| --- | --- |
 
 ## Parent / Guardian Information
 
@@ -44,8 +42,5 @@ Emergency Contact |
 
 ## Approval
 
-| --- | --- |
 | Signed On Date | |
 | Signed By | |
-| --- | --- |
-
