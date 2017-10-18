@@ -5,9 +5,9 @@ date: 2017-10-18T19:47:59-06:00
 ---
 <img align="right" src="/images/rocketslogo_small.jpg" >
 
-# Redwater Minor Soccer Registration Form
+## Redwater Minor Soccer Registration Form
 
-## Player Information
+### Player Information
 
 <table width="100%" >    
 <tr><td style="border-bottom:1pt solid black; height:3em" >
@@ -31,10 +31,17 @@ Medical Concerns
 
 ## Parent / Guardian Information
 
-Surname |
-Given Name |
-Phone # |
-Emergency Contact |
+<table width="100%" >    
+<tr><td style="border-bottom:1pt solid black; height:3em" >
+Surname 
+</td></tr><tr><td style="border-bottom:1pt solid black; height:3em">
+Given Name 
+</td></tr><tr><td style="border-bottom:1pt solid black; height:3em">
+Phone # 
+</td></tr><tr><td style="border-bottom:1pt solid black; height:3em">
+Emergency Contact 
+</td></tr>
+</table>
 
 ## Fees
 
@@ -62,7 +69,11 @@ Emergency Contact |
 
 ## Approval
 
-| Signed On Date | |
-| Signed By | |
-
+<table width="50%" >    
+<tr><td style="border-bottom:1pt solid black; height:3em" >
+Signed On Date 
+</td></tr><tr><td style="border-bottom:1pt solid black; height:3em">
+Signed By
+</td></tr>
+</table>
 
