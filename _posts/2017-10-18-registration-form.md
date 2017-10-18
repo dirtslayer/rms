@@ -4,6 +4,14 @@ title: "Registration Form"
 date: 2017-10-18T19:47:59-06:00
 ---
 <img align="right" src="/images/rocketslogo_small.jpg" >
+<style>
+
+body > main > div > article > div > table > tr {
+color : blue;
+}
+
+</style>
+
 
 
 ## Player Information
