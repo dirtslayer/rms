@@ -42,31 +42,29 @@ Phone #
 Emergency Contact 
 </td></tr>
 </table>
-
-### Fees
-
-- [ ] Paid
-  - [ ] Check
-  - [ ] Email Transfer
-  - [ ] Cash
-  - [ ] Receipt 
-
+<table><tr><td>
+### Fees paid
+- Paid
+- Check
+- Email Transfer
+- Cash
+- Receipt 
+</td><td>
 ### Volunteer
-
-- [ ] Coach
-- [ ] Assistant
-- [ ] Trainer
-- [ ] Car Pool
-- [ ] Fundraiser
-
+- Coach
+- Assistant
+- Trainer
+- Car Pool
+- Fundraiser
+</td><td>
 ### Notes
-
-- [ ] $50 late fee, fees due by first game
-- [ ] $50 fundraising deposit
-- [ ] equipment checklist ...
-- [ ] no refunds after start of season
-- [ ] $60 cancelation fee
-
+- $50 late fee, fees due by first game
+- $50 fundraising deposit
+- equipment checklist ...
+- no refunds after start of season
+- $60 cancelation fee
+</td></tr>
+</table>
 ### Approval
 
 <table width="50%" >    
