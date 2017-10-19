@@ -4,7 +4,7 @@ title: "Fundscrip fundraiser"
 date: 2017-10-18T19:47:59-06:00
 ---
 
-We are selling pre-paid shopping cards. A commision is donated to Redwater Minor Soccer, while the donor gets 100% of the value of the cost of the gift card. 
+We are selling pre-paid shopping cards. A commision is donated to Redwater Minor Soccer, while the donor gets 100% of the cost of the gift card towards a purchase. 
 
 The invitation code is required at the support a group login. The Redwater Minor Soccer invitation code is **NP42PP**
 
