@@ -5,12 +5,12 @@ Jersey | Player | Short Size | Socks Size
 80 | Janaye Shaw | ? | ?
 ? | Isabella Oliver | ? | ?
 50 | Shayden Hawkhurst | YL | YL
-? | Lauryn Coard | ? | ?
+99 | Lauryn Coard | ? | ?
 72 | Avril Pritchard | ? | ?
 10 | Brayden Duckworth | ? | ?
 18 | Tayla Backwick | ? | ?
 39 | Aimee Sheldrake | ? | ?
 64 | Coralee Sheldrake | ? | ?
-? | Arianna Meneses | ? | ?
+62 | Arianna Meneses | ? | ?
 
   
