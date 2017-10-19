@@ -32,8 +32,8 @@ date: 2017-10-18T19:47:59-06:00
   
   </td></tr>
   </table>
-  
-  ### Parent / Guardian Information
+
+### Parent / Guardian Information
   
 <table width="70%" style="padding-bottom:2em">    
 <tr><td style="border-bottom:1pt solid black; height:2em" >
@@ -87,7 +87,8 @@ date: 2017-10-18T19:47:59-06:00
   </li></ul>
 </td></tr>
 </table>
-  ### Approval
+
+### Approval
   
   <table width="50%" >    
  <tr><td style="border-bottom:1pt solid black; height:3em" >
