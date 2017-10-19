@@ -46,7 +46,47 @@ date: 2017-10-18T19:47:59-06:00
   AHCN, Emergency Contact 
   </td></tr>
   </table>
-
+<table width="100%"><tr><td>
+  <h3> Fees paid </h3>
+<ul><li>
+  Paid
+  </li><li>
+ Check
+</li><li>
+ Email Transfer
+</li><li>
+ Cash
+</li><li>
+ Receipt 
+  </li></ul>
+</td><td>
+  <h3> Volunteer </h3>
+<ul><li>
+  Coach
+</li><li>
+  Assistant
+</li><li>
+  Trainer
+</li><li>
+  Car Pool
+</li><li>
+  Fundraiser
+  </li></ul>
+</td><td>
+  <h3> Notes </h3>
+<ul> <li>
+  $50 late fee, fees due by first game
+</li><li>
+ $50 fundraising deposit
+</li><li>
+  equipment checklist ...
+</li><li>
+  no refunds after start of season
+</li><li>
+  $60 cancelation fee
+  </li></ul>
+</td></tr>
+</table>
   ### Approval
   
   <table width="50%" >    
