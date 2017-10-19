@@ -3,6 +3,17 @@ layout: none
 title: "Registration Form"
 date: 2017-10-18T19:47:59-06:00
 ---
+<html>
+  <head>
+    <style>
+      table { 
+      padding-bottom:2em; 
+      color:green;
+      }
+    </style>
+  </head>
+  <body>
+      
 <img style="opacity:0.2" align="right" src="/images/rocketslogo_small.jpg" >
 
 ## Redwater Minor Soccer Registration Form
@@ -97,3 +108,5 @@ Signed By
 </td></tr>
 </table>
 
+</body>
+</html>
