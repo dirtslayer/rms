@@ -3,8 +3,7 @@ layout: none
 title: "Registration Form"
 date: 2017-10-18T19:47:59-06:00
 ---
-<html>
-  <head>
+
     <style>
       table { 
       padding-bottom:2em; 
@@ -14,8 +13,7 @@ date: 2017-10-18T19:47:59-06:00
       height:2em"
       }
     </style>
-  </head>
-  <body>
+ 
       
 <img style="opacity:0.2" align="right" src="/images/rocketslogo_small.jpg" >
 
@@ -111,5 +109,3 @@ Signed By
 </td></tr>
 </table>
 
-</body>
-</html>
