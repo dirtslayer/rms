@@ -24,7 +24,7 @@ date: 2017-10-18T19:47:59-06:00
 ### Player Information
 
 <table width="70%"  >    
-<tr><td style=" >
+<tr><td >
 Surname 
   </td><td >
   team
