@@ -8,7 +8,8 @@ Sell pre-paid shopping cards and get a percentage commision donated to Redwater 
 
 ## PDF form
 Alternatively you can print out this pdf form and fill that in and give it to Kirsti.
-[Fundscrip Order Form][order]
+
+### [Fundscrip Order Form][order]
 
 ## [Fundscrip Login][link]
 
