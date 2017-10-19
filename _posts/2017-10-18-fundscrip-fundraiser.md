@@ -8,7 +8,6 @@ We are selling pre-paid shopping cards. A commision is donated to Redwater Minor
 
 The invitation code is required at the support a group login. The Redwater Minor Soccer invitation code is **NP42PP**
 
-## PDF form
 Alternatively you can print out this pdf form and fill that in and give it to Kirsti.
 
 ### [Fundscrip Order Form][order]
