@@ -43,7 +43,7 @@ date: 2017-10-18T19:47:59-06:00
 </td></tr><tr><td style="border-bottom:1pt solid black; height:2em">
   Phone # 
 </td></tr><tr><td style="border-bottom:1pt solid black; height:2em">
-  AHCN, Emergency Contact 
+  Emergency Contact 
   </td></tr>
   </table>
 <table width="100%"><tr><td>
