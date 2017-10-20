@@ -14,5 +14,7 @@ Alternatively you can print out this pdf form and fill that in and give it to Ki
 
 ## [Fundscrip Login][link]
 
+## The first gift card order is November 7th
+
 [link]: https://www.fundscrip.com/support-a-group 
 [order]: http://redwatersoccer.ca/POF_38361_AB_20171019125951662.pdf
