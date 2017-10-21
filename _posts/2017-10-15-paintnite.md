@@ -4,8 +4,8 @@ title: Paintnite Fundraiser
 date: 2017-10-15T20:37:28-06:00
 --- 
 
-All the information about our next fundraiser is on the paintnite website.
+Paintnite is a fundraiser for adults at Time Out Sports Lounge. Tickets are not available at the door. Tickets can be purchased at the paintnite website:
 
-[paintnite](https://www.paintnite.com/events/-10016251)
+## [paintnite website](https://www.paintnite.com/events/-10016251)
 
 
