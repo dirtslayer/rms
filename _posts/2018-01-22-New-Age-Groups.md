@@ -14,4 +14,4 @@ U9 | 2009/10
 U7 | 2011/12
 U5 | 2013
 
-[Registration Page][http://redwatersoccer.ca/2017/10/18/registration.html]
+[Registration Page](http://redwatersoccer.ca/2017/10/18/registration.html)
