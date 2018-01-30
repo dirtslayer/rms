@@ -8,6 +8,7 @@ date: 2018-01-30T19:47:59-06:00
 
 ## Player Information
 
+|---|---|
 |Surname||
 |First||
 |Birth date||
@@ -19,28 +20,27 @@ date: 2018-01-30T19:47:59-06:00
 
 ## Parent / Guardian Information
 
+|---|---|
 |Surname||
 |Given Name||
 |Phone # ||
 |Emergency Contact||
 
 [] Fees paid
-[] Paid
 [] Check
 [] Email Transfer
 [] Cash
 [] Receipt
-
+[] $25 late fee, due by ﬁrst game
 
 [] Volunteer
 [] Coach
 [] Assistant
 [] Trainer
-[] Car Pool
-[] Fundraiser
-[] $25 late fee, fees due by ﬁrst game
 
 ## Approval
+
+|---|---|
 |Signed On Date||
 |Signed By||
 
