@@ -1,8 +1,10 @@
 ---
-layout: post
-title: "Registration"
-date: 2017-10-18T19:47:59-06:00
+layout: none
+title: "Redwater Minor Soccer Registration Form"
+date: 2018-01-30T19:47:59-06:00
 ---
+
+[Redwater Minor Soccer Registration Form][gform]
 
 ## Player Information
 
@@ -42,10 +44,5 @@ Emergency Contact
 ## Approval
 Signed On Date
 Signed By
-
-
-## Link to online form
-
-[Redwater Minor Soccer Registration Form][gform]
 
 [gform]: https://goo.gl/forms/NLfy1wy38AtFTVk03
