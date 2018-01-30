@@ -4,19 +4,48 @@ title: "Registration"
 date: 2017-10-18T19:47:59-06:00
 ---
 
-There are a few ways to register. 
+## Player Information
 
-1. You can get a copy of the registration form from us fill it in and return it. 
-2. You could print the registration form pdf file. Then fill it in and bring it.
-3. You could use the online form.
+|----------|----------------|
+|Surname||
+|First||
+|Birth date||
+|Phone||
+|email||
+|Address||
+|AHC # , Medical Concerns||
+|||
 
-## Link to PDF
+## Parent / Guardian Information
 
-[Redwater Minor Soccer Registration PDF][pdf]
+Surname
+Given Name
+Phone #
+Emergency Contact
+
+[] Fees paid
+[] Paid
+[] Check
+[] Email Transfer
+[] Cash
+[] Receipt
+
+
+[] Volunteer
+[] Coach
+[] Assistant
+[] Trainer
+[] Car Pool
+[] Fundraiser
+[] $25 late fee, fees due by ﬁrst game
+
+## Approval
+Signed On Date
+Signed By
+
 
 ## Link to online form
 
 [Redwater Minor Soccer Registration Form][gform]
 
-[pdf]: http://redwatersoccer.ca/redwatersoccer.ca_2017_10_18_registration-form.pdf
 [gform]: https://goo.gl/forms/NLfy1wy38AtFTVk03
