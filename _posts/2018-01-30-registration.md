@@ -7,13 +7,13 @@ date: 2018-01-30T19:47:59-06:00
 <style>
   h2 {
   color : grey;
-  font-size : 1.5 em;
+  font-size : 1.5em;
 }
   a {
-  font-size : 1.5 em;
+  font-size : 1.5em;
   }
   tr {
-  line-height: 2 em;
+  line-height: 3em;
   }
   </style>
   
