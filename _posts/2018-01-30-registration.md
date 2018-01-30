@@ -4,6 +4,13 @@ title: "Redwater Minor Soccer Registration Form"
 date: 2018-01-30T19:47:59-06:00
 ---
 
+<style>
+  h2 {
+  color : grey;
+  font-size : 1.5 em;
+}
+  </style>
+  
 [Redwater Minor Soccer Registration Form][gform]
 
 ## Player Information
