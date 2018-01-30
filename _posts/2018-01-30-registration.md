@@ -8,7 +8,6 @@ date: 2018-01-30T19:47:59-06:00
 
 ## Player Information
 
-|----------|----------------|
 |Surname||
 |First||
 |Birth date||
@@ -20,10 +19,10 @@ date: 2018-01-30T19:47:59-06:00
 
 ## Parent / Guardian Information
 
-Surname
-Given Name
-Phone #
-Emergency Contact
+|Surname||
+|Given Name||
+|Phone # ||
+|Emergency Contact||
 
 [] Fees paid
 [] Paid
@@ -42,7 +41,7 @@ Emergency Contact
 [] $25 late fee, fees due by ﬁrst game
 
 ## Approval
-Signed On Date
-Signed By
+|Signed On Date||
+|Signed By||
 
 [gform]: https://goo.gl/forms/NLfy1wy38AtFTVk03
