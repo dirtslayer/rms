@@ -9,6 +9,12 @@ date: 2018-01-30T19:47:59-06:00
   color : grey;
   font-size : 1.5 em;
 }
+  a {
+  font-size : 1.5 em;
+  }
+  tr {
+  line-height: 2 em;
+  }
   </style>
   
 [Redwater Minor Soccer Registration Form][gform]
